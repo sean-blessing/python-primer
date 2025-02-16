@@ -18,6 +18,7 @@
 
 # p. 9
 # if statements: if, elif, else
+# note the use of colon to note blocks of code!
 
 # while loop: 
 

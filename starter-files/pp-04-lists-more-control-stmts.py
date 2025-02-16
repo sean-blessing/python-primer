@@ -1,5 +1,5 @@
 # p. 11
-# Arrays / Lists
+# Lists
 # even_numbers = [2, 4, 6, 8, 10]
 # odd_numbers = [1, 3, 7, 9]
 
@@ -15,7 +15,7 @@
 # match (switch) statement
 # match variable:   case "a":  case "b": case _:
 
-# for loop
+# p. 12 for loop
 # for var in list:
 
 # for var in range(len(list))
